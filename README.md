@@ -9,6 +9,8 @@ The information that is show here is from Biomuseo (a museum about the diversity
 </div>
 <br>
 
+Because I cannot upload the static folder (which have the images inside) I share with you this link: https://drive.google.com/drive/folders/1N1BP_rB_q7tTxvjgOoontnU176xqSpWj?usp=drive_link
+
 Feel free to add some features or reach me out to add aditional stuff to make it more interesting :)
 
 (p.s.: if u dont want to activate the environment and run the python script in your computer, just open the Panama.html file)

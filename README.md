@@ -3,3 +3,6 @@ This is my Code in Place final Project in which I aimed to foster the Panama cul
 
 ![PanamaFlagGIF](https://github.com/user-attachments/assets/9c46da43-5fa7-49d9-b580-32e5f9ed18a4)
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9c46da43-5fa7-49d9-b580-32e5f9ed18a4" alt="PanamaFlagGIF">
+</div>

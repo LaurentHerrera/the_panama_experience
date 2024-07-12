@@ -1,4 +1,10 @@
 # the_panama_experience
+
+<div align=center>
+    <img src="https://github.com/user-attachments/assets/1facd34f-ba4a-4944-93f2-5906645dde82" alt="Panama" width="400">
+</div>
+<br>
+
 This is my Code in Place final Project in which I aimed to foster the Panama culture in general, the idea was born since my days learning in CiP when I saw the only thing other learners with me knew about Panama it was about the Canal so I proposed to myself to show you more about my country and what can be done here in this magical place.🫶🏻
 So here is the product, a map which emphasizes Panama with leaves as touristic places or with activities you can enjoy here.
 

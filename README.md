@@ -11,4 +11,4 @@ The information that is show here is from Biomuseo (a museum about the diversity
 
 Feel free to add some features or reach me out to add aditional stuff to make it more interesting :)
 
-(p.s.: if u dont want to run the python script in your computer, just open the Panama.html file)
+(p.s.: if u dont want to activate the environment and run the python script in your computer, just open the Panama.html file)

@@ -13,4 +13,5 @@ Because I cannot upload the static folder (which have the images inside) I share
 
 Feel free to add some features or reach me out to add aditional stuff to make it more interesting :)
 
-(p.s.: if u dont want to activate the environment and run the python script in your computer, just open the Panama.html file)
+(p.s.: if u dont want to create the environment, download the files and run the python script in your computer, just reach me to share with you the result of the script, which is an .html file just reach me out -> laurent.herrera8@gmail.com)
+
